@@ -1,5 +1,5 @@
 # CoCo
-
+This repository contains (PyTorch) code and datasets for CoCo, described by the paper: Mi Zhang, Tieyun Qian, Ting Zhang, Xin Miao, Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction. The ACM Web Conference 2023.
 ## Setup
 
 ### Install dependencies
@@ -24,4 +24,3 @@ python SynCo.py
 # Run the SemCo moudle
 python SemCo.py
 ```
-This repository contains (PyTorch) code and datasets for CoCo, described by the paper: Mi Zhang, Tieyun Qian, Ting Zhang, Xin Miao, Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction. The ACM Web Conference 2023.
